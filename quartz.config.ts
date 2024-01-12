@@ -10,7 +10,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     baseUrl: "giwone1330.github.io/garden",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "Templates", "Daily Notes", "Scripts", "Excalidraw"],
     defaultDateType: "created",
     theme: {
       typography: {
