@@ -14,13 +14,13 @@ I created this space with several purposes in mind, including:
 - Learning in Public
 - Portfolio Building
 
-To acheive those goals, I am planning to write contents regarding my:
+To achieve those goals, I am planning to write contents regarding my:
 
 - Studies
 - Ideas
 - Projects
 - Experiences
 
-I am quite new to both Obsidian and digital note-taking practicies at the moment, so it might take some time to get used to. Bear with me!
+I am quite new to both Obsidian and digital note-taking practices at the moment, so it might take some time to get used to. Bear with me!
 
 All that aside, I will do my best to update regularly with moderately polished contents!

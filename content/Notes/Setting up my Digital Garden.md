@@ -1,5 +1,4 @@
 ---
-title: Setting up my Digital Garden
 draft: false
 tags:
   - DigitalGarden
