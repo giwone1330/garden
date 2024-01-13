@@ -6,7 +6,7 @@ tags:
 ---
 
 Hello everyone!
-My name is Giwon Shin, and this is my digital garden.
+I am [[Giwon Shin]], and this is my digital garden.
 
 I created this space with several purposes in mind, including:
 
