@@ -10,10 +10,9 @@ I worked from Feb.2022 to Nov. 2023, full time during the summer and winter brea
 I have learned much about academic research and applications of artificial intelligence to industrial domains.
 
 ### Projects 
-[[Vision‑based safety securing technology for temporary structure installation and dismantlement]]
-[[Development of smart safety assurance technology for temporary structures]]
-[[Mobile robot based PPE compliance monitoring]]
-[[Overcoming the limitations for AI based construction site monitoring]]
-[[Developing the foundation for participatory sensing in infrastructure monitoring]]
-[[Smart response system for urban disaster and health resilience under climate change]]
-[[Vision-based pavement condition assessment for automated maintenance and repair decision-making]]
+- [[Vision‑based safety securing technology for temporary structure installation and dismantlement]] (Feb. 2022 - Feb. 2023)
+- [[Development of smart safety assurance technology for temporary structures]] (Feb. 2022 - Feb. 2023)
+- [[Mobile robot based PPE compliance monitoring]] (Feb. 2022 - Aug. 2022)
+- [[Overcoming the limitations for AI based construction site monitoring]] (Feb. 2022 - Nov. 2023)
+- [[Smart response system for urban disaster and health resilience under climate change]] (Dec. 2022 - Nov. 2023)
+- [[Vision-based pavement condition assessment for automated maintenance and repair decision-making]] (Feb. 2022 - Nov. 2023)
