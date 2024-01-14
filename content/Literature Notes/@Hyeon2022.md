@@ -11,7 +11,7 @@ tags:
 > Citekey | Hyeon2022
 > Authors | Jeongho Hyeon, Giwon Shin, Taegeon Kim, Byungil Kim, Hongjo Kim
 > Year | 2022
-> DOI | 
+> Container | Proceedings of the 19th International Conference on Computing in Civil and Building Engineering
 
 [Zotero](zotero://select/items/@Hyeon2022) [doi](https://doi.org/)
 
@@ -20,7 +20,4 @@ tags:
 # Challenges of Road Crack Segmentation due to Coarse Annotation
 
 ## Notes
-
-
-
 

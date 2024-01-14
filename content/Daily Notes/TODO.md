@@ -1,0 +1,5 @@
+- [ ] edit the literature note template to contain conference / journal information
+- [ ] include abstract for my publications
+- [ ] include description for my publications
+- [ ] add images / tables for visual content
+- [ ] plan my studies / job search

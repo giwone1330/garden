@@ -11,7 +11,7 @@ tags:
 > Citekey | Hyeon2023
 > Authors | Jeongho Hyeon, Giwon Shin, Wei-Chih Chern, Vijayan Asari, Hongjo Kim
 > Year | 2023
-> DOI | 
+> Container | Proceedings of the 40th Internatilnal Symposium on Automation and Robotics in Construction
 
 [Zotero](zotero://select/items/@Hyeon2023) [doi](https://doi.org/)
 
@@ -20,7 +20,4 @@ tags:
 # Evaluating Road Segmentation Performance in Participatory Sensing: An Investigation into Alternative Metrics
 
 ## Notes
-
-
-
 

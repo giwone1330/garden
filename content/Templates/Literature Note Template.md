@@ -11,7 +11,7 @@ tags:
 > Citekey | {{entry.id}}
 > Authors | {{authorString}}
 > Year | {{year}}
-> DOI | {{DOI}}
+> Container | {{containerTitle}}
 
 [Zotero]({{zoteroSelectURI}}) [doi](https://doi.org/{{DOI}})
 
@@ -21,6 +21,6 @@ tags:
 
 ## Notes
 
-{{note}}
+
 
 
