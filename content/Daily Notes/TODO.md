@@ -1,5 +1,5 @@
-- [ ] edit the literature note template to contain conference / journal information
+- [x] edit the literature note template to contain conference / journal information ✅ 2024-01-14
 - [ ] include abstract for my publications
 - [ ] include description for my publications
 - [ ] add images / tables for visual content
-- [ ] plan my studies / job search
+- [ ] plan my studies / job search 카카오 네이버 당근마켓 업스테이지 하이퍼 커넥트 루닛
