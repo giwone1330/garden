@@ -51,6 +51,7 @@ Yonsei University, Seoul, South Korea
 
 - Programming Language
 	- Python
+	- C++
 	- MATLAB
 - Software
 	- Vivado

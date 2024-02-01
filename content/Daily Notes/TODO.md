@@ -8,3 +8,10 @@
 - [ ] personal projects
 - [ ] LCs <- for this i need to study c
 - [ ] 씹어먹는 C
+
+
+### Study materials
+[RL book](http://incompleteideas.net/book/the-book-2nd.html)
+[ISLR](https://www.statlearning.com/)
+[ESLR](https://hastie.su.domains/Papers/ESLII.pdf)
+[Applied Predictive Modelling](http://appliedpredictivemodeling.com/)
