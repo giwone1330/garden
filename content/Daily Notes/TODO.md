@@ -15,3 +15,12 @@
 [ISLR](https://www.statlearning.com/)
 [ESLR](https://hastie.su.domains/Papers/ESLII.pdf)
 [Applied Predictive Modelling](http://appliedpredictivemodeling.com/)
+[learncpp](https://www.learncpp.com/)
+[nlp](https://wikidocs.net/book/2155)
+[udl](https://udlbook.github.io/udlbook/)
+### courses
+[machine learning specialization](https://www.coursera.org/specializations/machine-learning-introduction?utm_campaign=WebsiteCourses-MLS-TopButton-mls-launch-2022&utm_medium=institutions&utm_source=deeplearning-ai)
+- 1week fin 13일부터~
+[deep learning specialization](https://www.coursera.org/specializations/deep-learning?utm_source=deeplearningai&utm_medium=institutions&utm_campaign=WebsiteCoursesDLSTopButton)
+- exp 2~3weeks
+

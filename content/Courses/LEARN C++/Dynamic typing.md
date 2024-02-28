@@ -1,0 +1,1 @@
+The term dynamic typing means that **a compiler or an interpreter assigns a type to all the variables at run-time**. The type of a variable is decided based on its value. The programs written using dynamic-typed languages are more flexible but will compile even if they contain errors.
